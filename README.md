@@ -1,5 +1,11 @@
 # The Bug
 
+
+- [Brainstorm](brainstorm.md)
+- [Story Plan](story-plan.md)
+- [Reflection](reflection.md)
+ 
+
 ## TO DO
 - [x] brainstorm ideas for creative work
 - [x] map story/plan story of creative work
@@ -14,8 +20,3 @@
 - [x] style: add background image
 - [x] style: adjust font and placement of type
 - [x] get ready for submission
-
-- [Brainstorm](brainstorm.md)
-- [Story Plan](story-plan.md)
-- [Reflection](reflection.md)
- 
