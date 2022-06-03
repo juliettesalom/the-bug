@@ -4,7 +4,6 @@
 - [Brainstorm](brainstorm.md)
 - [Story Plan](story-plan.md)
 - [Reflection](reflection.md)
-- [Twine Proof](file:///private/var/folders/lv/hb23l64d5k164qhv2vr8y3440000gn/T/ec61bdd1-c159-4547-a4dc-f79480f9149b.html)
  
 
 ## TO DO
